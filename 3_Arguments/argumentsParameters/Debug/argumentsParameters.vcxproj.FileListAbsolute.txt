@@ -1,0 +1,2 @@
+C:\Users\Ferit YILDIZ\Desktop\c++ tutorials\3_Arguments\argumentsParameters\Debug\arraysMultidimensional.exe
+C:\Users\Ferit YILDIZ\Desktop\c++ tutorials\3_Arguments\argumentsParameters\Debug\arraysMultidimensional.pdb

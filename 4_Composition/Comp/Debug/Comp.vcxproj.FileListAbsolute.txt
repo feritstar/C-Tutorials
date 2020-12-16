@@ -1,0 +1,2 @@
+C:\Users\Ferit YILDIZ\Desktop\c++ tutorials\4_Composition\Comp\Debug\Comp.exe
+C:\Users\Ferit YILDIZ\Desktop\c++ tutorials\4_Composition\Comp\Debug\Comp.pdb
