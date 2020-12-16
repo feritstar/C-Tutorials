@@ -1,0 +1,2 @@
+C:\Users\Ferit YILDIZ\Desktop\c++ tutorials\9_Exceptions\9_ExceptionHandling\Debug\9_ExceptionHandling.exe
+C:\Users\Ferit YILDIZ\Desktop\c++ tutorials\9_Exceptions\9_ExceptionHandling\Debug\9_ExceptionHandling.pdb

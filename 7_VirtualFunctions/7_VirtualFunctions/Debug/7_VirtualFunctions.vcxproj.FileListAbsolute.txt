@@ -1,0 +1,2 @@
+C:\Users\Ferit YILDIZ\Desktop\c++ tutorials\7_VirtualFunctions\7_VirtualFunctions\Debug\7_Templates.exe
+C:\Users\Ferit YILDIZ\Desktop\c++ tutorials\7_VirtualFunctions\7_VirtualFunctions\Debug\7_Templates.pdb
