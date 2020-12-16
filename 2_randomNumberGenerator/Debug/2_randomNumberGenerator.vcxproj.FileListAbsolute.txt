@@ -1,0 +1,2 @@
+C:\Users\Ferit YILDIZ\Desktop\c++ tutorials\2_randomNumberGenerator\Debug\2_randomNumberGenerator.exe
+C:\Users\Ferit YILDIZ\Desktop\c++ tutorials\2_randomNumberGenerator\Debug\2_randomNumberGenerator.pdb
