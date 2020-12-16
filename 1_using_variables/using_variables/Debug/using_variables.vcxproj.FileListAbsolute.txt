@@ -1,0 +1,2 @@
+C:\Users\Ferit YILDIZ\Desktop\c++ tutorials\1_using_variables\using_variables\Debug\using_variables.exe
+C:\Users\Ferit YILDIZ\Desktop\c++ tutorials\1_using_variables\using_variables\Debug\using_variables.pdb

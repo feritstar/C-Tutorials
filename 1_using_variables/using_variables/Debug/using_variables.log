@@ -1,0 +1,5 @@
+﻿  Main.cpp
+  burrito.cpp
+C:\Users\Ferit YILDIZ\Desktop\c++ tutorials\1_using_variables\using_variables\burrito.cpp(22,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  using_variables.vcxproj -> C:\Users\Ferit YILDIZ\Desktop\c++ tutorials\1_using_variables\using_variables\Debug\using_variables.exe
